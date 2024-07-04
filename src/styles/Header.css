@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff5722;
+  padding: 10px 20px;
+}
+
+.logo {
+  font-size: 1.5em;
+  color: white;
+}
+
+.search-bar input {
+  padding: 5px;
+  font-size: 1em;
+}
